@@ -17,6 +17,12 @@
                 case "English":
                     Console.WriteLine("English is too much reading");
                     break;
+                case "Math":
+                    Console.WriteLine("Math is sometimes difficult");
+                    break;
+                case "Art":
+                    Console.WriteLine("Art is one of the best subjects");
+                    break;
                 default: Console.WriteLine("I dont mind that subject");
                     break;
             }
